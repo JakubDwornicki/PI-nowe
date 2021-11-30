@@ -1,2 +1,4 @@
 Zmiana07b
 hotfix001
+Dodano asystenta pomocy
+easierApp
